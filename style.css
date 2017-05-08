@@ -2,8 +2,9 @@ h1{
 	font-size: 100px;
 	color: green;
 }
+
 #special{
-	font-size:80px;
+	font-size:15px;
 	color:orange;
 }
 img{
@@ -11,7 +12,7 @@ img{
 	width: auto;
 }
 body {
-
      background-image: url("hugo.jpg");
 }
+
 }
