@@ -4,12 +4,13 @@ h1{
 }
 
 #special{
-	font-size:15px;
-	color:orange;
+font-size:15px;
+color:blue;
+
 }
 p{
 	font-size:80px;
-	color:blue; 
+	color:blue;
 }
 img{
 	height: 600px;
