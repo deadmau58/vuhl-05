@@ -24,6 +24,10 @@ img{
 body {
      background-image: url("hugo.jpg");
 }
+{
+  cursor:crosshair;
+}
+
 @keyframes fadein {
     from { opacity: 0; }
     to   { opacity: 1; }
