@@ -25,7 +25,7 @@ body {
      background-image: url("hugo.jpg");
 }
 body{
- cursor: crosshair;
+ cursor: pointer;
 }
 img{
  cursor: wait;
