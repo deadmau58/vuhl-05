@@ -24,8 +24,14 @@ img{
 body {
      background-image: url("hugo.jpg");
 }
-{
-  cursor:crosshair;
+body{
+ cursor: crosshair;
+}
+img{
+ cursor: wait;
+}
+a:link{
+ cursor:  pointer;
 }
 
 @keyframes fadein {
